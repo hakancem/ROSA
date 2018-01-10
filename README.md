@@ -1,2 +1,13 @@
-# RoseShop
-Rose Shop
+# What is 'Market Access'
+Market access refers to the ability of a company or country to sell goods and services across borders. Market access can be used to refer to domestic trade as well as international trade, although the latter is the most common context. Market access is not the same thing as free trade. The ability to sell into a market is often accompanied with tariffs, duties or even quotas, whereas free trade means that goods and services flow across the borders without any extra costs imposed by governments. Even so, market access is seen as an early step towards deepening trade ties. Market access has increasingly been referenced as the stated goal of trade negotiations as opposed to true free trade.
+
+# BREAKING DOWN 'Market Access'
+International trade is a matter of negotiation between two or more governments, so it is bound to get complex. Throughout these negotiations, participants generally push for market access that favors their particular export industries, while also looking to limit market access to import products that could potentially compete with sensitive or politically important domestic industries. The reason market access is considered to be distinct from free trade is that the process of negotiation is aimed at beneficial trade that may not necessarily be freer.
+
+# Market Access as the New Trade Reality
+This give and take process is the reality of international trade negotiations today. This is also why most negotiations are characterized as seeking more market access rather than freer trade. After decades of increasing global trade, there is evidence that large swaths of people no longer support universally free trade due to concerns over domestic job security. The U.S., long one of the champions of freer global trade, has seen this public distrust of trade rise in conjunction with the rapid growth of its trading partners’ economies, particularly in Mexico and China. That said, most still want the benefits of international trade such as a choice of a wide variety of competitively priced goods and a strong export market for domestically produced products.
+
+# Trade Wordplay
+Despite the negative public sentiment towards international trade, it has consistently been the driver of overall global wealth despite its uneven effects. To avoid the negative connotations, trade deals are now discussed in terms of market access rather than free trade. This is a bit of wordplay as many of the same aims are being met and trade ties generally deepen over time by virtue of being net gain for the economies involved. Interestingly, international trade itself is being pushed out in favor of international commerce.
+
+Read more: Market Access Definition | Investopedia https://www.investopedia.com/terms/m/market-access.asp#ixzz53mvUlxW1
